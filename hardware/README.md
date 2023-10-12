@@ -1,1 +1,1 @@
-This is a program of singlechip.
+This is a hardware program of singlechip.
