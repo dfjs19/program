@@ -1,2 +1,1 @@
-# test
-This is a test.
+This is a program  of my learning record.
